@@ -5,5 +5,5 @@ O Alura Plus é um projeto do curso Praticando HTML e CSS da Alura. Foi baseado 
 * HTML
 * CSS
 
-##Interface
+## Interface
 ![](img/gif-site.gif)
