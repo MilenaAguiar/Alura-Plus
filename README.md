@@ -4,5 +4,6 @@ O Alura Plus é um projeto do curso Praticando HTML e CSS da Alura. Foi baseado 
 ## Tecnologias utilizadas
 * HTML
 * CSS
+
 ##Interface
 ![](img/gif-site.gif)
